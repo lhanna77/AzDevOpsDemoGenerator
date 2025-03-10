@@ -1,3 +1,11 @@
+# Working Cmd
+
+cd src/
+dotnet build
+cd ADOGenerator
+dotnet run --project ADOGenerator.csproj
+
+
 # Azure DevOps Demo Generator
 
 
